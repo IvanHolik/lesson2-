@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+}
+.block {
+
+}
+.container {
+    padding: 76px 38px 80px;
+    max-width:560px;
+}
+.button.first {
+    margin-right: 25px;
+}
+.button {
+    height: 60px;
+    display: inline-block;
+    border: 1px solid #000000;
+    border-radius: 5%;
+    text-align: center;
+    padding: 19px 113px 20px 109px;
+    width:227px;
+}
